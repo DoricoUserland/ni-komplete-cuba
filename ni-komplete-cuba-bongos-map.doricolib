@@ -192,6 +192,24 @@
 						<pitch>65</pitch>
 						<name>Rim</name>
 					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.bongo.bell.low</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>84</pitch>
+						<name>Natural</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.bongo.bell.low</instrumentEntityID>
+						<techniqueIDs>pt.centre</techniqueIDs>
+						<pitch>85</pitch>
+						<name>Centre</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.claves</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>96</pitch>
+						<name>Natural</name>
+					</entry>
 				</entries>
 			</DrumKitNoteMapDefinition>
 		</entities>
