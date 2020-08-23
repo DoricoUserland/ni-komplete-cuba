@@ -192,6 +192,48 @@
 						<pitch>65</pitch>
 						<name>Muffled/Damped</name>
 					</entry>
+					<entry>
+						<instrumentEntityID>instrument.band.unpitched.tomtom.high.alias.tom-high</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>72</pitch>
+						<name>Natural</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.band.unpitched.tomtom.high.alias.tom-high</instrumentEntityID>
+						<techniqueIDs>pt.slapCongas</techniqueIDs>
+						<pitch>73</pitch>
+						<name>Slap (congas)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.band.unpitched.tomtom.high.alias.tom-high</instrumentEntityID>
+						<techniqueIDs>pt.user.heel_conga</techniqueIDs>
+						<pitch>74</pitch>
+						<name>Heel (Conga)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.band.unpitched.tomtom.high.alias.tom-high</instrumentEntityID>
+						<techniqueIDs>pt.user.tip_conga</techniqueIDs>
+						<pitch>75</pitch>
+						<name>Tip (Conga)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.band.unpitched.tomtom.high.alias.tom-high</instrumentEntityID>
+						<techniqueIDs>pt.muted</techniqueIDs>
+						<pitch>76</pitch>
+						<name>Muted</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.band.unpitched.tomtom.high.alias.tom-high</instrumentEntityID>
+						<techniqueIDs>pt.muffledDamped</techniqueIDs>
+						<pitch>77</pitch>
+						<name>Muffled/Damped</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.claves</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>96</pitch>
+						<name>Natural</name>
+					</entry>
 				</entries>
 			</DrumKitNoteMapDefinition>
 		</entities>
