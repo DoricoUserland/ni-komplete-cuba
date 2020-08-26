@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kScoreLibrary>
+	<fileVersion>1.982</fileVersion>
+	<temperaments>
+		<entities array="true"/>
+	</temperaments>
+	<accidentalSystems>
+		<entities array="true"/>
+	</accidentalSystems>
+	<accidentalDefinitions>
+		<entities array="true"/>
+	</accidentalDefinitions>
+	<tonalitySystemDefinitions>
+		<entities array="true"/>
+	</tonalitySystemDefinitions>
+	<ensembles>
+		<entities array="true"/>
+	</ensembles>
+	<instruments>
+		<entities array="true"/>
+	</instruments>
+	<instrumentNames>
+		<entities array="true"/>
+		<language>kEnglish</language>
+	</instrumentNames>
+	<instrumentFamilies>
+		<entities array="true"/>
+	</instrumentFamilies>
+	<clefDefinitions>
+		<entities array="true"/>
+	</clefDefinitions>
+	<ottavaLineDefinitions>
+		<entities array="true"/>
+	</ottavaLineDefinitions>
+	<noteheadSetDefinitions>
+		<entities array="true"/>
+	</noteheadSetDefinitions>
+	<noteheadDefinitions>
+		<entities array="true"/>
+	</noteheadDefinitions>
+	<restSetDefinitions>
+		<entities array="true"/>
+	</restSetDefinitions>
+	<restDefinitions>
+		<entities array="true"/>
+	</restDefinitions>
+	<flagSetDefinitions>
+		<entities array="true"/>
+	</flagSetDefinitions>
+	<flagDefinitions>
+		<entities array="true"/>
+	</flagDefinitions>
+	<graphicDefinitions>
+		<entities array="true"/>
+	</graphicDefinitions>
+	<blobDefinitions>
+		<entities array="true"/>
+	</blobDefinitions>
+	<drawingDefinitions>
+		<entities array="true"/>
+	</drawingDefinitions>
+	<textDefinitions>
+		<entities array="true"/>
+	</textDefinitions>
+	<glyphDefinitions>
+		<entities array="true"/>
+	</glyphDefinitions>
+	<compositeDefinitions>
+		<entities array="true"/>
+	</compositeDefinitions>
+	<tempoPresetDefinitions>
+		<entities array="true"/>
+	</tempoPresetDefinitions>
+	<rhythmicFeelDefinitions>
+		<entities array="true"/>
+	</rhythmicFeelDefinitions>
+	<penstyles>
+		<entities array="true"/>
+	</penstyles>
+	<fontstyles>
+		<entities array="true"/>
+	</fontstyles>
+	<brushstyles>
+		<entities array="true"/>
+	</brushstyles>
+	<pagePairDefinitionSets>
+		<entities array="true"/>
+	</pagePairDefinitionSets>
+	<pageDimensionPresets>
+		<entities array="true"/>
+	</pageDimensionPresets>
+	<paragraphStyles>
+		<entities array="true"/>
+	</paragraphStyles>
+	<characterStyles>
+		<entities array="true"/>
+	</characterStyles>
+	<playingTechniques>
+		<entities array="true"/>
+	</playingTechniques>
+	<ornamentDefinitions>
+		<entities array="true"/>
+	</ornamentDefinitions>
+	<multiSegmentLineDefinitions>
+		<entities array="true"/>
+	</multiSegmentLineDefinitions>
+	<playingTechniqueAppearanceCollectionDefinition>
+		<entities array="true"/>
+	</playingTechniqueAppearanceCollectionDefinition>
+	<expressionMapDefinitions>
+		<entities array="true"/>
+	</expressionMapDefinitions>
+	<drumKitNoteMapDefinitions>
+		<entities array="true">
+			<DrumKitNoteMapDefinition>
+				<name>Komplete - Cuba - Timbales</name>
+				<entityID>drumkitmap.user.komplete_cuba_timbales</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<version>1</version>
+				<forSingleInstrument>false</forSingleInstrument>
+				<entries array="true">
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.timbale.medium.low</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>48</pitch>
+						<name>Natural</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.timbale.medium.low</instrumentEntityID>
+						<techniqueIDs>pt.muffledDamped</techniqueIDs>
+						<pitch>49</pitch>
+						<name>Muffled/Damped</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.timbale.medium.low</instrumentEntityID>
+						<techniqueIDs>pt.rim</techniqueIDs>
+						<pitch>50</pitch>
+						<name>Rim</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.timbale.medium.low</instrumentEntityID>
+						<techniqueIDs>pt.shell</techniqueIDs>
+						<pitch>51</pitch>
+						<name>Shell</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.timbale.medium.low</instrumentEntityID>
+						<techniqueIDs>pt.rimKnock</techniqueIDs>
+						<pitch>52</pitch>
+						<name>Rim knock</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.timbale.medium.low</instrumentEntityID>
+						<techniqueIDs>pt.muted</techniqueIDs>
+						<pitch>53</pitch>
+						<name>Muted</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.timbale.medium.high</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>60</pitch>
+						<name>Natural</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.timbale.medium.high</instrumentEntityID>
+						<techniqueIDs>pt.muffledDamped</techniqueIDs>
+						<pitch>61</pitch>
+						<name>Muffled/Damped</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.timbale.medium.high</instrumentEntityID>
+						<techniqueIDs>pt.rim</techniqueIDs>
+						<pitch>62</pitch>
+						<name>Rim</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.timbale.medium.high</instrumentEntityID>
+						<techniqueIDs>pt.shell</techniqueIDs>
+						<pitch>63</pitch>
+						<name>Shell</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.timbale.medium.high</instrumentEntityID>
+						<techniqueIDs>pt.rimKnock</techniqueIDs>
+						<pitch>64</pitch>
+						<name>Rim knock</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.timbale.medium.high</instrumentEntityID>
+						<techniqueIDs>pt.muted</techniqueIDs>
+						<pitch>65</pitch>
+						<name>Muted</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.percussion.other.cowbell.low</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>78</pitch>
+						<name>Natural</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.percussion.other.cowbell.low</instrumentEntityID>
+						<techniqueIDs>pt.centre</techniqueIDs>
+						<pitch>79</pitch>
+						<name>Centre</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.percussion.other.cowbell.low</instrumentEntityID>
+						<techniqueIDs>pt.muted</techniqueIDs>
+						<pitch>80</pitch>
+						<name>Muted</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.chacha.bell</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>81</pitch>
+						<name>Natural</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.chacha.bell</instrumentEntityID>
+						<techniqueIDs>pt.centre</techniqueIDs>
+						<pitch>82</pitch>
+						<name>Centre</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.chacha.bell</instrumentEntityID>
+						<techniqueIDs>pt.muted</techniqueIDs>
+						<pitch>83</pitch>
+						<name>Muted</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.low</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>84</pitch>
+						<name>Natural</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.low</instrumentEntityID>
+						<techniqueIDs>pt.bell</techniqueIDs>
+						<pitch>85</pitch>
+						<name>Bell</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.low</instrumentEntityID>
+						<techniqueIDs>pt.fingerClick</techniqueIDs>
+						<pitch>86</pitch>
+						<name>Finger click</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.low</instrumentEntityID>
+						<techniqueIDs>pt.choke</techniqueIDs>
+						<pitch>87</pitch>
+						<name>Choke</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.low</instrumentEntityID>
+						<techniqueIDs>pt.damp</techniqueIDs>
+						<pitch>88</pitch>
+						<name>Damp</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.high</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>90</pitch>
+						<name>Natural</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.high</instrumentEntityID>
+						<techniqueIDs>pt.bell</techniqueIDs>
+						<pitch>91</pitch>
+						<name>Bell</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.high</instrumentEntityID>
+						<techniqueIDs>pt.fingerClick</techniqueIDs>
+						<pitch>92</pitch>
+						<name>Finger click</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.high</instrumentEntityID>
+						<techniqueIDs>pt.choke</techniqueIDs>
+						<pitch>93</pitch>
+						<name>Choke</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.high</instrumentEntityID>
+						<techniqueIDs>pt.damp</techniqueIDs>
+						<pitch>94</pitch>
+						<name>Damp</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.claves</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>96</pitch>
+						<name>Natural</name>
+					</entry>
+				</entries>
+			</DrumKitNoteMapDefinition>
+		</entities>
+	</drumKitNoteMapDefinitions>
+	<repeatableCompositeCollectionDefinitions>
+		<entities array="true"/>
+	</repeatableCompositeCollectionDefinitions>
+	<chordSymbolAppearanceCollectionDefinitions>
+		<entities array="true"/>
+	</chordSymbolAppearanceCollectionDefinitions>
+	<chordSymbolAppearanceComponentCollectionDefinitions>
+		<entities array="true"/>
+	</chordSymbolAppearanceComponentCollectionDefinitions>
+	<percussionKitDefinitionCollectionDefinition>
+		<entities array="true"/>
+	</percussionKitDefinitionCollectionDefinition>
+	<percussionInstrumentDataCollectionDefinition>
+		<entities array="true"/>
+	</percussionInstrumentDataCollectionDefinition>
+	<frettedInstrumentDataCollectionDefinition>
+		<entities array="true"/>
+	</frettedInstrumentDataCollectionDefinition>
+	<chordDiagramCollectionDefinition>
+		<entities array="true"/>
+	</chordDiagramCollectionDefinition>
+	<lineAnnotationCollectionDefinition>
+		<entities array="true"/>
+	</lineAnnotationCollectionDefinition>
+	<lineBodyStyleCollectionDefinition>
+		<entities array="true"/>
+	</lineBodyStyleCollectionDefinition>
+	<lineStyleCollectionDefinition>
+		<entities array="true"/>
+	</lineStyleCollectionDefinition>
+</kScoreLibrary>

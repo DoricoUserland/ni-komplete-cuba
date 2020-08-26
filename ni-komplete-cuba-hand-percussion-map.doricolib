@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kScoreLibrary>
+	<fileVersion>1.982</fileVersion>
+	<temperaments>
+		<entities array="true"/>
+	</temperaments>
+	<accidentalSystems>
+		<entities array="true"/>
+	</accidentalSystems>
+	<accidentalDefinitions>
+		<entities array="true"/>
+	</accidentalDefinitions>
+	<tonalitySystemDefinitions>
+		<entities array="true"/>
+	</tonalitySystemDefinitions>
+	<ensembles>
+		<entities array="true"/>
+	</ensembles>
+	<instruments>
+		<entities array="true"/>
+	</instruments>
+	<instrumentNames>
+		<entities array="true"/>
+		<language>kEnglish</language>
+	</instrumentNames>
+	<instrumentFamilies>
+		<entities array="true"/>
+	</instrumentFamilies>
+	<clefDefinitions>
+		<entities array="true"/>
+	</clefDefinitions>
+	<ottavaLineDefinitions>
+		<entities array="true"/>
+	</ottavaLineDefinitions>
+	<noteheadSetDefinitions>
+		<entities array="true"/>
+	</noteheadSetDefinitions>
+	<noteheadDefinitions>
+		<entities array="true"/>
+	</noteheadDefinitions>
+	<restSetDefinitions>
+		<entities array="true"/>
+	</restSetDefinitions>
+	<restDefinitions>
+		<entities array="true"/>
+	</restDefinitions>
+	<flagSetDefinitions>
+		<entities array="true"/>
+	</flagSetDefinitions>
+	<flagDefinitions>
+		<entities array="true"/>
+	</flagDefinitions>
+	<graphicDefinitions>
+		<entities array="true"/>
+	</graphicDefinitions>
+	<blobDefinitions>
+		<entities array="true"/>
+	</blobDefinitions>
+	<drawingDefinitions>
+		<entities array="true"/>
+	</drawingDefinitions>
+	<textDefinitions>
+		<entities array="true"/>
+	</textDefinitions>
+	<glyphDefinitions>
+		<entities array="true"/>
+	</glyphDefinitions>
+	<compositeDefinitions>
+		<entities array="true"/>
+	</compositeDefinitions>
+	<tempoPresetDefinitions>
+		<entities array="true"/>
+	</tempoPresetDefinitions>
+	<rhythmicFeelDefinitions>
+		<entities array="true"/>
+	</rhythmicFeelDefinitions>
+	<penstyles>
+		<entities array="true"/>
+	</penstyles>
+	<fontstyles>
+		<entities array="true"/>
+	</fontstyles>
+	<brushstyles>
+		<entities array="true"/>
+	</brushstyles>
+	<pagePairDefinitionSets>
+		<entities array="true"/>
+	</pagePairDefinitionSets>
+	<pageDimensionPresets>
+		<entities array="true"/>
+	</pageDimensionPresets>
+	<paragraphStyles>
+		<entities array="true"/>
+	</paragraphStyles>
+	<characterStyles>
+		<entities array="true"/>
+	</characterStyles>
+	<playingTechniques>
+		<entities array="true"/>
+	</playingTechniques>
+	<ornamentDefinitions>
+		<entities array="true"/>
+	</ornamentDefinitions>
+	<multiSegmentLineDefinitions>
+		<entities array="true"/>
+	</multiSegmentLineDefinitions>
+	<playingTechniqueAppearanceCollectionDefinition>
+		<entities array="true"/>
+	</playingTechniqueAppearanceCollectionDefinition>
+	<expressionMapDefinitions>
+		<entities array="true"/>
+	</expressionMapDefinitions>
+	<drumKitNoteMapDefinitions>
+		<entities array="true">
+			<DrumKitNoteMapDefinition>
+				<name>Komplete - Cuba - Hand Ensamble</name>
+				<entityID>drumkitmap.user.komplete_cuba_hand_ensamble</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<version>1</version>
+				<forSingleInstrument>false</forSingleInstrument>
+				<entries array="true">
+					<entry>
+						<instrumentEntityID>instrument.kit.maracas</instrumentEntityID>
+						<techniqueIDs>pt.down</techniqueIDs>
+						<pitch>48</pitch>
+						<name>Down</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.kit.maracas</instrumentEntityID>
+						<techniqueIDs>pt.up</techniqueIDs>
+						<pitch>49</pitch>
+						<name>Up</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.kit.maracas</instrumentEntityID>
+						<techniqueIDs>pt.accent</techniqueIDs>
+						<pitch>50</pitch>
+						<name>Accent</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.kit.maracas</instrumentEntityID>
+						<techniqueIDs>pt.user.rotation_maracas</techniqueIDs>
+						<pitch>51</pitch>
+						<name>Rotation (Maracas)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.kit.maracas</instrumentEntityID>
+						<techniqueIDs>pt.user.down_l_maracas</techniqueIDs>
+						<pitch>52</pitch>
+						<name>Down L (Maracas)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.kit.maracas</instrumentEntityID>
+						<techniqueIDs>pt.user.down_r_maracas</techniqueIDs>
+						<pitch>53</pitch>
+						<name>Down R (Maracas)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.kit.maracas</instrumentEntityID>
+						<techniqueIDs>pt.user.release_stroke_maracas</techniqueIDs>
+						<pitch>56</pitch>
+						<name>Release Stroke (Maracas)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.kit.maracas</instrumentEntityID>
+						<techniqueIDs>pt.user.3_stroke_ruff_maracas</techniqueIDs>
+						<pitch>57</pitch>
+						<name>3 Stroke Ruff (Maracas)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.kit.maracas</instrumentEntityID>
+						<techniqueIDs>pt.shake</techniqueIDs>
+						<pitch>58</pitch>
+						<name>Shake</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.kit.maracas</instrumentEntityID>
+						<techniqueIDs>pt.user.double_accent_maracas</techniqueIDs>
+						<pitch>59</pitch>
+						<name>Double Accent (Maracas)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.guiro</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>60</pitch>
+						<name>Natural</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.guiro</instrumentEntityID>
+						<techniqueIDs>pt.user.long_release_guiro</techniqueIDs>
+						<pitch>61</pitch>
+						<name>Long &amp; Release (Guiro)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.guiro</instrumentEntityID>
+						<techniqueIDs>pt.down</techniqueIDs>
+						<pitch>62</pitch>
+						<name>Down</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.guiro</instrumentEntityID>
+						<techniqueIDs>pt.up</techniqueIDs>
+						<pitch>63</pitch>
+						<name>Up</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.guiro</instrumentEntityID>
+						<techniqueIDs>pt.user.up_fast_guiro</techniqueIDs>
+						<pitch>64</pitch>
+						<name>Up Fast (Guiro)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.guiro</instrumentEntityID>
+						<techniqueIDs>pt.user.down_fast_guiro</techniqueIDs>
+						<pitch>65</pitch>
+						<name>Down Fast (Guiro)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.guiro</instrumentEntityID>
+						<techniqueIDs>pt.user.downup_guiro</techniqueIDs>
+						<pitch>66</pitch>
+						<name>Down-Up (Guiro)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.guiro</instrumentEntityID>
+						<techniqueIDs>pt.user.updown_guiro</techniqueIDs>
+						<pitch>67</pitch>
+						<name>Up-Down (Guiro)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.guiro</instrumentEntityID>
+						<techniqueIDs>pt.user.downup_2_guiro</techniqueIDs>
+						<pitch>68</pitch>
+						<name>Down-Up 2 (Guiro)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.guiro</instrumentEntityID>
+						<techniqueIDs>pt.user.3_stroke_guiro</techniqueIDs>
+						<pitch>69</pitch>
+						<name>3 Stroke (Guiro)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.guiro</instrumentEntityID>
+						<techniqueIDs>pt.roll</techniqueIDs>
+						<pitch>70</pitch>
+						<name>Roll</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.guiro</instrumentEntityID>
+						<techniqueIDs>pt.user.5_stroke_guiro</techniqueIDs>
+						<pitch>71</pitch>
+						<name>5 Stroke (Guiro)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.african.unpitched.shekere</instrumentEntityID>
+						<techniqueIDs>pt.user.front_shekere</techniqueIDs>
+						<pitch>72</pitch>
+						<name>Front (Shekere)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.african.unpitched.shekere</instrumentEntityID>
+						<techniqueIDs>pt.user.back_shekere</techniqueIDs>
+						<pitch>73</pitch>
+						<name>Back (Shekere)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.african.unpitched.shekere</instrumentEntityID>
+						<techniqueIDs>pt.user.bass_shekere</techniqueIDs>
+						<pitch>74</pitch>
+						<name>Bass (Shekere)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.african.unpitched.shekere</instrumentEntityID>
+						<techniqueIDs>pt.user.left_shekere</techniqueIDs>
+						<pitch>75</pitch>
+						<name>Left (Shekere)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.african.unpitched.shekere</instrumentEntityID>
+						<techniqueIDs>pt.user.right_shekere</techniqueIDs>
+						<pitch>76</pitch>
+						<name>Right (Shekere)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.african.unpitched.shekere</instrumentEntityID>
+						<techniqueIDs>pt.user.accent_shekere</techniqueIDs>
+						<pitch>77</pitch>
+						<name>Accent</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.african.unpitched.shekere</instrumentEntityID>
+						<techniqueIDs>pt.user.front_rel_shekere</techniqueIDs>
+						<pitch>80</pitch>
+						<name>Front Rel (Shekere)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.african.unpitched.shekere</instrumentEntityID>
+						<techniqueIDs>pt.shake</techniqueIDs>
+						<pitch>82</pitch>
+						<name>Shake</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.african.unpitched.shekere</instrumentEntityID>
+						<techniqueIDs>pt.muted</techniqueIDs>
+						<pitch>83</pitch>
+						<name>Mute (Shekere)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.percussion.other.wood.block.low</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>84</pitch>
+						<name>Natural</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.percussion.other.wood.block.high</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>85</pitch>
+						<name>Natural</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.percussion.other.cowbell.high</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>90</pitch>
+						<name>Natural</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.percussion.other.cowbell.high</instrumentEntityID>
+						<techniqueIDs>pt.centre</techniqueIDs>
+						<pitch>91</pitch>
+						<name>Centre</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.percussion.other.cowbell.high</instrumentEntityID>
+						<techniqueIDs>pt.muted</techniqueIDs>
+						<pitch>92</pitch>
+						<name>Muted</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.percussion.other.cowbell.high</instrumentEntityID>
+						<techniqueIDs>pt.muffledDamped</techniqueIDs>
+						<pitch>93</pitch>
+						<name>Muffled/Damped</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.claves</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>96</pitch>
+						<name>Natural</name>
+					</entry>
+				</entries>
+			</DrumKitNoteMapDefinition>
+		</entities>
+	</drumKitNoteMapDefinitions>
+	<repeatableCompositeCollectionDefinitions>
+		<entities array="true"/>
+	</repeatableCompositeCollectionDefinitions>
+	<chordSymbolAppearanceCollectionDefinitions>
+		<entities array="true"/>
+	</chordSymbolAppearanceCollectionDefinitions>
+	<chordSymbolAppearanceComponentCollectionDefinitions>
+		<entities array="true"/>
+	</chordSymbolAppearanceComponentCollectionDefinitions>
+	<percussionKitDefinitionCollectionDefinition>
+		<entities array="true"/>
+	</percussionKitDefinitionCollectionDefinition>
+	<percussionInstrumentDataCollectionDefinition>
+		<entities array="true"/>
+	</percussionInstrumentDataCollectionDefinition>
+	<frettedInstrumentDataCollectionDefinition>
+		<entities array="true"/>
+	</frettedInstrumentDataCollectionDefinition>
+	<chordDiagramCollectionDefinition>
+		<entities array="true"/>
+	</chordDiagramCollectionDefinition>
+	<lineAnnotationCollectionDefinition>
+		<entities array="true"/>
+	</lineAnnotationCollectionDefinition>
+	<lineBodyStyleCollectionDefinition>
+		<entities array="true"/>
+	</lineBodyStyleCollectionDefinition>
+	<lineStyleCollectionDefinition>
+		<entities array="true"/>
+	</lineStyleCollectionDefinition>
+</kScoreLibrary>

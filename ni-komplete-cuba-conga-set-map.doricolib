@@ -157,6 +157,30 @@
 						<name>Muffled/Damped</name>
 					</entry>
 					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.conga.low</instrumentEntityID>
+						<techniqueIDs>pt.user.open_release_congas</techniqueIDs>
+						<pitch>56</pitch>
+						<name>Open Release (Congas)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.conga.low</instrumentEntityID>
+						<techniqueIDs>pt.user.3_stroke_congas</techniqueIDs>
+						<pitch>57</pitch>
+						<name>3 Stroke Open (Congas)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.conga.low</instrumentEntityID>
+						<techniqueIDs>pt.user.3_stroke_slap_congas</techniqueIDs>
+						<pitch>58</pitch>
+						<name>3 Stroke Slap (Congas)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.conga.low</instrumentEntityID>
+						<techniqueIDs>pt.user.5_stroke_congas</techniqueIDs>
+						<pitch>59</pitch>
+						<name>5 Stroke (Congas)</name>
+					</entry>
+					<entry>
 						<instrumentEntityID>instrument.latin.unpitched.conga.high</instrumentEntityID>
 						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>60</pitch>
@@ -193,6 +217,30 @@
 						<name>Muffled/Damped</name>
 					</entry>
 					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.conga.high</instrumentEntityID>
+						<techniqueIDs>pt.user.open_release_congas</techniqueIDs>
+						<pitch>68</pitch>
+						<name>Open Release (Congas)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.conga.high</instrumentEntityID>
+						<techniqueIDs>pt.user.3_stroke_congas</techniqueIDs>
+						<pitch>69</pitch>
+						<name>3 Stroke Open (Congas)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.conga.high</instrumentEntityID>
+						<techniqueIDs>pt.user.3_stroke_slap_congas</techniqueIDs>
+						<pitch>70</pitch>
+						<name>3 Stroke Slap (Congas)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.conga.high</instrumentEntityID>
+						<techniqueIDs>pt.user.5_stroke_congas</techniqueIDs>
+						<pitch>71</pitch>
+						<name>5 Stroke (Congas)</name>
+					</entry>
+					<entry>
 						<instrumentEntityID>instrument.band.unpitched.tomtom.high.alias.tom-high</instrumentEntityID>
 						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>72</pitch>
@@ -227,6 +275,30 @@
 						<techniqueIDs>pt.muffledDamped</techniqueIDs>
 						<pitch>77</pitch>
 						<name>Muffled/Damped</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.band.unpitched.tomtom.high.alias.tom-high</instrumentEntityID>
+						<techniqueIDs>pt.user.open_release_congas</techniqueIDs>
+						<pitch>80</pitch>
+						<name>Open Release (Congas)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.band.unpitched.tomtom.high.alias.tom-high</instrumentEntityID>
+						<techniqueIDs>pt.user.3_stroke_congas</techniqueIDs>
+						<pitch>81</pitch>
+						<name>3 Stroke Open (Congas)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.band.unpitched.tomtom.high.alias.tom-high</instrumentEntityID>
+						<techniqueIDs>pt.user.3_stroke_slap_congas</techniqueIDs>
+						<pitch>82</pitch>
+						<name>3 Stroke Slap (Congas)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.band.unpitched.tomtom.high.alias.tom-high</instrumentEntityID>
+						<techniqueIDs>pt.user.5_stroke_congas</techniqueIDs>
+						<pitch>83</pitch>
+						<name>5 Stroke (Congas)</name>
 					</entry>
 					<entry>
 						<instrumentEntityID>instrument.latin.unpitched.claves</instrumentEntityID>
