@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kScoreLibrary>
+	<fileVersion>1.982</fileVersion>
+	<temperaments>
+		<entities array="true"/>
+	</temperaments>
+	<accidentalSystems>
+		<entities array="true"/>
+	</accidentalSystems>
+	<accidentalDefinitions>
+		<entities array="true"/>
+	</accidentalDefinitions>
+	<tonalitySystemDefinitions>
+		<entities array="true"/>
+	</tonalitySystemDefinitions>
+	<ensembles>
+		<entities array="true"/>
+	</ensembles>
+	<instruments>
+		<entities array="true"/>
+	</instruments>
+	<instrumentNames>
+		<entities array="true"/>
+		<language>kEnglish</language>
+	</instrumentNames>
+	<instrumentFamilies>
+		<entities array="true"/>
+	</instrumentFamilies>
+	<clefDefinitions>
+		<entities array="true"/>
+	</clefDefinitions>
+	<ottavaLineDefinitions>
+		<entities array="true"/>
+	</ottavaLineDefinitions>
+	<noteheadSetDefinitions>
+		<entities array="true"/>
+	</noteheadSetDefinitions>
+	<noteheadDefinitions>
+		<entities array="true"/>
+	</noteheadDefinitions>
+	<restSetDefinitions>
+		<entities array="true"/>
+	</restSetDefinitions>
+	<restDefinitions>
+		<entities array="true"/>
+	</restDefinitions>
+	<flagSetDefinitions>
+		<entities array="true"/>
+	</flagSetDefinitions>
+	<flagDefinitions>
+		<entities array="true"/>
+	</flagDefinitions>
+	<graphicDefinitions>
+		<entities array="true"/>
+	</graphicDefinitions>
+	<blobDefinitions>
+		<entities array="true"/>
+	</blobDefinitions>
+	<drawingDefinitions>
+		<entities array="true"/>
+	</drawingDefinitions>
+	<textDefinitions>
+		<entities array="true"/>
+	</textDefinitions>
+	<glyphDefinitions>
+		<entities array="true"/>
+	</glyphDefinitions>
+	<compositeDefinitions>
+		<entities array="true"/>
+	</compositeDefinitions>
+	<tempoPresetDefinitions>
+		<entities array="true"/>
+	</tempoPresetDefinitions>
+	<rhythmicFeelDefinitions>
+		<entities array="true"/>
+	</rhythmicFeelDefinitions>
+	<penstyles>
+		<entities array="true"/>
+	</penstyles>
+	<fontstyles>
+		<entities array="true"/>
+	</fontstyles>
+	<brushstyles>
+		<entities array="true"/>
+	</brushstyles>
+	<pagePairDefinitionSets>
+		<entities array="true"/>
+	</pagePairDefinitionSets>
+	<pageDimensionPresets>
+		<entities array="true"/>
+	</pageDimensionPresets>
+	<paragraphStyles>
+		<entities array="true"/>
+	</paragraphStyles>
+	<characterStyles>
+		<entities array="true"/>
+	</characterStyles>
+	<playingTechniques>
+		<entities array="true"/>
+	</playingTechniques>
+	<ornamentDefinitions>
+		<entities array="true"/>
+	</ornamentDefinitions>
+	<multiSegmentLineDefinitions>
+		<entities array="true"/>
+	</multiSegmentLineDefinitions>
+	<playingTechniqueAppearanceCollectionDefinition>
+		<entities array="true"/>
+	</playingTechniqueAppearanceCollectionDefinition>
+	<expressionMapDefinitions>
+		<entities array="true"/>
+	</expressionMapDefinitions>
+	<drumKitNoteMapDefinitions>
+		<entities array="true">
+			<DrumKitNoteMapDefinition>
+				<name>Komplete - Cuba - Cajon LH</name>
+				<entityID>drumkitmap.user.komplete_cuba_cajon_lh</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<version>1</version>
+				<forSingleInstrument>false</forSingleInstrument>
+				<entries array="true">
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.cajon.low</instrumentEntityID>
+						<techniqueIDs>pt.user.bass_shekere</techniqueIDs>
+						<pitch>48</pitch>
+						<name>Bass (Cuba)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.cajon.high</instrumentEntityID>
+						<techniqueIDs>pt.user.bass_shekere</techniqueIDs>
+						<pitch>49</pitch>
+						<name>Bass (Cuba)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.cajon.low</instrumentEntityID>
+						<techniqueIDs>pt.open1</techniqueIDs>
+						<pitch>50</pitch>
+						<name>Open 1</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.cajon.high</instrumentEntityID>
+						<techniqueIDs>pt.open1</techniqueIDs>
+						<pitch>51</pitch>
+						<name>Open 1</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.cajon.low</instrumentEntityID>
+						<techniqueIDs>pt.slap</techniqueIDs>
+						<pitch>52</pitch>
+						<name>Slap</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.cajon.high</instrumentEntityID>
+						<techniqueIDs>pt.slap</techniqueIDs>
+						<pitch>53</pitch>
+						<name>Slap</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.cajon.low</instrumentEntityID>
+						<techniqueIDs>pt.user.tip_conga</techniqueIDs>
+						<pitch>54</pitch>
+						<name>Tip (Conga)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.cajon.high</instrumentEntityID>
+						<techniqueIDs>pt.user.tip_conga</techniqueIDs>
+						<pitch>55</pitch>
+						<name>Tip (Conga)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.cajon.low</instrumentEntityID>
+						<techniqueIDs>pt.user.open_muted_cuba</techniqueIDs>
+						<pitch>56</pitch>
+						<name>Open Muted (Cuba)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.cajon.high</instrumentEntityID>
+						<techniqueIDs>pt.user.open_muted_cuba</techniqueIDs>
+						<pitch>57</pitch>
+						<name>Open Muted (Cuba)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.cajon.low</instrumentEntityID>
+						<techniqueIDs>pt.user.slap_muted_cuba</techniqueIDs>
+						<pitch>58</pitch>
+						<name>Slap Muted (Cuba)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.cajon.high</instrumentEntityID>
+						<techniqueIDs>pt.user.slap_muted_cuba</techniqueIDs>
+						<pitch>59</pitch>
+						<name>Slap Muted (Cuba)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.cajon.high</instrumentEntityID>
+						<techniqueIDs>pt.user.bass_accent_cuba</techniqueIDs>
+						<pitch>60</pitch>
+						<name>Bass Accent (Cuba)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.cajon.low</instrumentEntityID>
+						<techniqueIDs>pt.user.open_accent_cuba</techniqueIDs>
+						<pitch>61</pitch>
+						<name>Open Accent (Cuba)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.cajon.low</instrumentEntityID>
+						<techniqueIDs>pt.user.slap_accent_cuba</techniqueIDs>
+						<pitch>62</pitch>
+						<name>Slap Accent (Cuba)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.cajon.low</instrumentEntityID>
+						<techniqueIDs>pt.user.bass_soft_cuba</techniqueIDs>
+						<pitch>63</pitch>
+						<name>Bass Soft (Cuba)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.cajon.low</instrumentEntityID>
+						<techniqueIDs>pt.user.open_soft_cuba</techniqueIDs>
+						<pitch>64</pitch>
+						<name>Open Soft (Cuba)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.cajon.low</instrumentEntityID>
+						<techniqueIDs>pt.user.slap_soft_cuba</techniqueIDs>
+						<pitch>65</pitch>
+						<name>Slap Soft (Cuba)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.cajon.low</instrumentEntityID>
+						<techniqueIDs>pt.user.open_release_congas</techniqueIDs>
+						<pitch>68</pitch>
+						<name>Open Release (Cuba)</name>
+					</entry>
+				</entries>
+			</DrumKitNoteMapDefinition>
+		</entities>
+	</drumKitNoteMapDefinitions>
+	<repeatableCompositeCollectionDefinitions>
+		<entities array="true"/>
+	</repeatableCompositeCollectionDefinitions>
+	<chordSymbolAppearanceCollectionDefinitions>
+		<entities array="true"/>
+	</chordSymbolAppearanceCollectionDefinitions>
+	<chordSymbolAppearanceComponentCollectionDefinitions>
+		<entities array="true"/>
+	</chordSymbolAppearanceComponentCollectionDefinitions>
+	<percussionKitDefinitionCollectionDefinition>
+		<entities array="true"/>
+	</percussionKitDefinitionCollectionDefinition>
+	<percussionInstrumentDataCollectionDefinition>
+		<entities array="true"/>
+	</percussionInstrumentDataCollectionDefinition>
+	<frettedInstrumentDataCollectionDefinition>
+		<entities array="true"/>
+	</frettedInstrumentDataCollectionDefinition>
+	<chordDiagramCollectionDefinition>
+		<entities array="true"/>
+	</chordDiagramCollectionDefinition>
+	<lineAnnotationCollectionDefinition>
+		<entities array="true"/>
+	</lineAnnotationCollectionDefinition>
+	<lineBodyStyleCollectionDefinition>
+		<entities array="true"/>
+	</lineBodyStyleCollectionDefinition>
+	<lineStyleCollectionDefinition>
+		<entities array="true"/>
+	</lineStyleCollectionDefinition>
+</kScoreLibrary>

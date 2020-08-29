@@ -20,49 +20,16 @@
 		<entities array="true">
 			<InstrumentEntityDefinition>
 				<name>Cajon</name>
-				<entityID>instrument.user.3b513c9b5e9146f1828957fd77aa3d5e</entityID>
-				<parentEntityID>instrument.kit.cajon</parentEntityID>
-				<inheritanceMask>0</inheritanceMask>
-				<nameID>instrumentname.user.85ee274f949f406395b8b9aae6d0a983</nameID>
-				<numStaves>1</numStaves>
-				<musicXMLSoundID/>
-				<numberingStyle>kDummy</numberingStyle>
-				<showGuitarChords>false</showGuitarChords>
-				<showChordSymbols>false</showChordSymbols>
-				<percussionKitDefinitionID>kit-definition.user.1fd40e30ff4545b19b223ec877f08b62</percussionKitDefinitionID>
-				<frettedInstrumentDataID/>
-				<staveDefinition>
-					<numStaveLines>5</numStaveLines>
-					<barlineSpan>1</barlineSpan>
-					<useBrace>false</useBrace>
-					<isVocalStave>false</isVocalStave>
-					<defaultContextualStemDirectionIsUp>false</defaultContextualStemDirectionIsUp>
-				</staveDefinition>
-				<clefs>
-					<clefIDsForEachStave array="true">
-						<staveClefIDs>
-							<idForTransposingLayouts>clef.percussion</idForTransposingLayouts>
-						</staveClefIDs>
-					</clefIDsForEachStave>
-				</clefs>
-				<playingTechniques array="true">
-					<playingTechnique>
-						<techniqueID>pt.natural</techniqueID>
-					</playingTechnique>
-				</playingTechniques>
-			</InstrumentEntityDefinition>
-			<InstrumentEntityDefinition>
-				<name>Cajon</name>
-				<entityID>instrument.user.43fc0271debf45b8887d7c7e82d6e60f</entityID>
+				<entityID>instrument.user.1b3d6a49af014d1daa3a6f7ac11d0c36</entityID>
 				<parentEntityID>instrument.latin.unpitched.cajon.high</parentEntityID>
 				<inheritanceMask>0</inheritanceMask>
-				<nameID>instrumentname.user.ac7ab4ef5c854d639a95c3b96d145a06</nameID>
+				<nameID>instrumentname.user.6d76febe2cc34230894d62cdef4bb906</nameID>
 				<numStaves>1</numStaves>
 				<musicXMLSoundID>drum.cajon</musicXMLSoundID>
 				<numberingStyle>kDummy</numberingStyle>
 				<showGuitarChords>false</showGuitarChords>
 				<showChordSymbols>false</showChordSymbols>
-				<percussionInstrumentDataID>percussion-instrument-data.user.e56417022ce54642ac906b5043303717</percussionInstrumentDataID>
+				<percussionInstrumentDataID>percussion-instrument-data.user.a794bad36006403ea5e424f9f16726ed</percussionInstrumentDataID>
 				<frettedInstrumentDataID/>
 				<staveDefinition>
 					<numStaveLines>1</numStaveLines>
@@ -167,17 +134,50 @@
 				</playingTechniques>
 			</InstrumentEntityDefinition>
 			<InstrumentEntityDefinition>
+				<name>Cajon</name>
+				<entityID>instrument.user.ccd3d9f10a95485e9d8d81a80fe3da24</entityID>
+				<parentEntityID>instrument.kit.cajon</parentEntityID>
+				<inheritanceMask>0</inheritanceMask>
+				<nameID>instrumentname.user.f823f6dfe8b44ff58c2c15275630d524</nameID>
+				<numStaves>1</numStaves>
+				<musicXMLSoundID/>
+				<numberingStyle>kDummy</numberingStyle>
+				<showGuitarChords>false</showGuitarChords>
+				<showChordSymbols>false</showChordSymbols>
+				<percussionKitDefinitionID>kit-definition.user.d1322163a29d4d1cab5401ecd9c3d911</percussionKitDefinitionID>
+				<frettedInstrumentDataID/>
+				<staveDefinition>
+					<numStaveLines>5</numStaveLines>
+					<barlineSpan>1</barlineSpan>
+					<useBrace>false</useBrace>
+					<isVocalStave>false</isVocalStave>
+					<defaultContextualStemDirectionIsUp>false</defaultContextualStemDirectionIsUp>
+				</staveDefinition>
+				<clefs>
+					<clefIDsForEachStave array="true">
+						<staveClefIDs>
+							<idForTransposingLayouts>clef.percussion</idForTransposingLayouts>
+						</staveClefIDs>
+					</clefIDsForEachStave>
+				</clefs>
+				<playingTechniques array="true">
+					<playingTechnique>
+						<techniqueID>pt.natural</techniqueID>
+					</playingTechnique>
+				</playingTechniques>
+			</InstrumentEntityDefinition>
+			<InstrumentEntityDefinition>
 				<name>Cajon (Low Tone)</name>
-				<entityID>instrument.user.31806d6f0e674632bab201e69960e324</entityID>
+				<entityID>instrument.user.ee974e8321c647928e9591926f05f79b</entityID>
 				<parentEntityID>instrument.latin.unpitched.cajon.low</parentEntityID>
 				<inheritanceMask>0</inheritanceMask>
-				<nameID>instrumentname.user.3773ec42c8f54f26ab66a197845a9e98</nameID>
+				<nameID>instrumentname.user.a88df7b20faa408ab62a6383b3285a1b</nameID>
 				<numStaves>1</numStaves>
 				<musicXMLSoundID>drum.cajon</musicXMLSoundID>
 				<numberingStyle>kDummy</numberingStyle>
 				<showGuitarChords>false</showGuitarChords>
 				<showChordSymbols>false</showChordSymbols>
-				<percussionInstrumentDataID>percussion-instrument-data.user.a31794bd533444aa8340228cdf22182a</percussionInstrumentDataID>
+				<percussionInstrumentDataID>percussion-instrument-data.user.383ad3102ccc4b85bd56568ccc7498a8</percussionInstrumentDataID>
 				<frettedInstrumentDataID/>
 				<staveDefinition>
 					<numStaveLines>1</numStaveLines>
@@ -286,8 +286,23 @@
 	<instrumentNames>
 		<entities array="true">
 			<InstrumentNameEntityDefinition>
-				<name>instrumentname.user.3773ec42c8f54f26ab66a197845a9e98</name>
-				<entityID>instrumentname.user.3773ec42c8f54f26ab66a197845a9e98</entityID>
+				<name>instrumentname.user.6d76febe2cc34230894d62cdef4bb906</name>
+				<entityID>instrumentname.user.6d76febe2cc34230894d62cdef4bb906</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<data>
+					<uiName>Cajon (High Tone)</uiName>
+					<singularFullName>Cajon RH</singularFullName>
+					<singularShortName>Caj. RH</singularShortName>
+					<pluralFullName>Cajons</pluralFullName>
+					<pluralShortName>Caj.</pluralShortName>
+					<gender>kNeutral</gender>
+					<language>kEnglish</language>
+				</data>
+			</InstrumentNameEntityDefinition>
+			<InstrumentNameEntityDefinition>
+				<name>instrumentname.user.a88df7b20faa408ab62a6383b3285a1b</name>
+				<entityID>instrumentname.user.a88df7b20faa408ab62a6383b3285a1b</entityID>
 				<parentEntityID/>
 				<inheritanceMask>0</inheritanceMask>
 				<data>
@@ -301,29 +316,14 @@
 				</data>
 			</InstrumentNameEntityDefinition>
 			<InstrumentNameEntityDefinition>
-				<name>instrumentname.user.85ee274f949f406395b8b9aae6d0a983</name>
-				<entityID>instrumentname.user.85ee274f949f406395b8b9aae6d0a983</entityID>
+				<name>instrumentname.user.f823f6dfe8b44ff58c2c15275630d524</name>
+				<entityID>instrumentname.user.f823f6dfe8b44ff58c2c15275630d524</entityID>
 				<parentEntityID/>
 				<inheritanceMask>0</inheritanceMask>
 				<data>
 					<uiName>Cajon</uiName>
 					<singularFullName>Cajon</singularFullName>
 					<singularShortName>Caj.</singularShortName>
-					<pluralFullName>Cajons</pluralFullName>
-					<pluralShortName>Caj.</pluralShortName>
-					<gender>kNeutral</gender>
-					<language>kEnglish</language>
-				</data>
-			</InstrumentNameEntityDefinition>
-			<InstrumentNameEntityDefinition>
-				<name>instrumentname.user.ac7ab4ef5c854d639a95c3b96d145a06</name>
-				<entityID>instrumentname.user.ac7ab4ef5c854d639a95c3b96d145a06</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<data>
-					<uiName>Cajon (High Tone)</uiName>
-					<singularFullName>Cajon RH</singularFullName>
-					<singularShortName>Caj. RH</singularShortName>
 					<pluralFullName>Cajons</pluralFullName>
 					<pluralShortName>Caj.</pluralShortName>
 					<gender>kNeutral</gender>
@@ -568,8 +568,8 @@
 	<percussionKitDefinitionCollectionDefinition>
 		<entities array="true">
 			<PercussionKitDefinitionDefinition>
-				<name>kit-definition.user.1fd40e30ff4545b19b223ec877f08b62</name>
-				<entityID>kit-definition.user.1fd40e30ff4545b19b223ec877f08b62</entityID>
+				<name>kit-definition.user.d1322163a29d4d1cab5401ecd9c3d911</name>
+				<entityID>kit-definition.user.d1322163a29d4d1cab5401ecd9c3d911</entityID>
 				<parentEntityID/>
 				<inheritanceMask>0</inheritanceMask>
 				<kitDefinition>
@@ -579,7 +579,7 @@
 					<gridCentreLineShift>0</gridCentreLineShift>
 					<percussionKitComponents array="true">
 						<percussionKitComponent>
-							<instrumentEntityID>instrument.user.43fc0271debf45b8887d7c7e82d6e60f</instrumentEntityID>
+							<instrumentEntityID>instrument.user.1b3d6a49af014d1daa3a6f7ac11d0c36</instrumentEntityID>
 							<instrumentOrder>1</instrumentOrder>
 							<stavePosition>1</stavePosition>
 							<destinationVoiceDirection>kUp</destinationVoiceDirection>
@@ -591,7 +591,7 @@
 							</ptNoteheadOverrides>
 						</percussionKitComponent>
 						<percussionKitComponent>
-							<instrumentEntityID>instrument.user.31806d6f0e674632bab201e69960e324</instrumentEntityID>
+							<instrumentEntityID>instrument.user.ee974e8321c647928e9591926f05f79b</instrumentEntityID>
 							<instrumentOrder>2</instrumentOrder>
 							<stavePosition>-1</stavePosition>
 							<destinationVoiceDirection>kUp</destinationVoiceDirection>
@@ -611,8 +611,8 @@
 	<percussionInstrumentDataCollectionDefinition>
 		<entities array="true">
 			<PercussionInstrumentDataDefinition>
-				<name>percussion-instrument-data.user.a31794bd533444aa8340228cdf22182a</name>
-				<entityID>percussion-instrument-data.user.a31794bd533444aa8340228cdf22182a</entityID>
+				<name>percussion-instrument-data.user.383ad3102ccc4b85bd56568ccc7498a8</name>
+				<entityID>percussion-instrument-data.user.383ad3102ccc4b85bd56568ccc7498a8</entityID>
 				<parentEntityID/>
 				<inheritanceMask>0</inheritanceMask>
 				<playingTechniquePresentations array="true">
@@ -710,8 +710,8 @@
 				</playingTechniquePresentations>
 			</PercussionInstrumentDataDefinition>
 			<PercussionInstrumentDataDefinition>
-				<name>percussion-instrument-data.user.e56417022ce54642ac906b5043303717</name>
-				<entityID>percussion-instrument-data.user.e56417022ce54642ac906b5043303717</entityID>
+				<name>percussion-instrument-data.user.a794bad36006403ea5e424f9f16726ed</name>
+				<entityID>percussion-instrument-data.user.a794bad36006403ea5e424f9f16726ed</entityID>
 				<parentEntityID/>
 				<inheritanceMask>0</inheritanceMask>
 				<playingTechniquePresentations array="true">
