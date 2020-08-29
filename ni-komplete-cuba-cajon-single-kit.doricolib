@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kScoreLibrary>
+	<fileVersion>1.982</fileVersion>
+	<temperaments>
+		<entities array="true"/>
+	</temperaments>
+	<accidentalSystems>
+		<entities array="true"/>
+	</accidentalSystems>
+	<accidentalDefinitions>
+		<entities array="true"/>
+	</accidentalDefinitions>
+	<tonalitySystemDefinitions>
+		<entities array="true"/>
+	</tonalitySystemDefinitions>
+	<ensembles>
+		<entities array="true"/>
+	</ensembles>
+	<instruments>
+		<entities array="true">
+			<InstrumentEntityDefinition>
+				<name>Cajon</name>
+				<entityID>instrument.user.3b513c9b5e9146f1828957fd77aa3d5e</entityID>
+				<parentEntityID>instrument.kit.cajon</parentEntityID>
+				<inheritanceMask>0</inheritanceMask>
+				<nameID>instrumentname.user.85ee274f949f406395b8b9aae6d0a983</nameID>
+				<numStaves>1</numStaves>
+				<musicXMLSoundID/>
+				<numberingStyle>kDummy</numberingStyle>
+				<showGuitarChords>false</showGuitarChords>
+				<showChordSymbols>false</showChordSymbols>
+				<percussionKitDefinitionID>kit-definition.user.1fd40e30ff4545b19b223ec877f08b62</percussionKitDefinitionID>
+				<frettedInstrumentDataID/>
+				<staveDefinition>
+					<numStaveLines>5</numStaveLines>
+					<barlineSpan>1</barlineSpan>
+					<useBrace>false</useBrace>
+					<isVocalStave>false</isVocalStave>
+					<defaultContextualStemDirectionIsUp>false</defaultContextualStemDirectionIsUp>
+				</staveDefinition>
+				<clefs>
+					<clefIDsForEachStave array="true">
+						<staveClefIDs>
+							<idForTransposingLayouts>clef.percussion</idForTransposingLayouts>
+						</staveClefIDs>
+					</clefIDsForEachStave>
+				</clefs>
+				<playingTechniques array="true">
+					<playingTechnique>
+						<techniqueID>pt.natural</techniqueID>
+					</playingTechnique>
+				</playingTechniques>
+			</InstrumentEntityDefinition>
+			<InstrumentEntityDefinition>
+				<name>Cajon</name>
+				<entityID>instrument.user.43fc0271debf45b8887d7c7e82d6e60f</entityID>
+				<parentEntityID>instrument.latin.unpitched.cajon.high</parentEntityID>
+				<inheritanceMask>0</inheritanceMask>
+				<nameID>instrumentname.user.ac7ab4ef5c854d639a95c3b96d145a06</nameID>
+				<numStaves>1</numStaves>
+				<musicXMLSoundID>drum.cajon</musicXMLSoundID>
+				<numberingStyle>kDummy</numberingStyle>
+				<showGuitarChords>false</showGuitarChords>
+				<showChordSymbols>false</showChordSymbols>
+				<percussionInstrumentDataID>percussion-instrument-data.user.e56417022ce54642ac906b5043303717</percussionInstrumentDataID>
+				<frettedInstrumentDataID/>
+				<staveDefinition>
+					<numStaveLines>1</numStaveLines>
+					<barlineSpan>1</barlineSpan>
+					<bracketSpan>1</bracketSpan>
+					<useBrace>false</useBrace>
+					<isVocalStave>false</isVocalStave>
+					<defaultContextualStemDirectionIsUp>true</defaultContextualStemDirectionIsUp>
+				</staveDefinition>
+				<clefs>
+					<clefIDsForEachStave array="true">
+						<staveClefIDs>
+							<idForTransposingLayouts>clef.percussion</idForTransposingLayouts>
+						</staveClefIDs>
+					</clefIDsForEachStave>
+				</clefs>
+				<playingTechniques array="true">
+					<playingTechnique>
+						<techniqueID>pt.accent</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.crescendo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.crescendoDiminuendo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.diminuendo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.diminuendoCrescendo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.f</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.ff</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.fff</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.ffp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.fp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.marcato</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.mf</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.mp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.natural</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.p</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.pp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.ppp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.sf</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.sfp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.sfz</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.simile</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.staccatissimo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.staccato</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.tenuto</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.tremolo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.ghostNote</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.open2</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.slapCongas</techniqueID>
+					</playingTechnique>
+				</playingTechniques>
+			</InstrumentEntityDefinition>
+			<InstrumentEntityDefinition>
+				<name>Cajon (Low Tone)</name>
+				<entityID>instrument.user.31806d6f0e674632bab201e69960e324</entityID>
+				<parentEntityID>instrument.latin.unpitched.cajon.low</parentEntityID>
+				<inheritanceMask>0</inheritanceMask>
+				<nameID>instrumentname.user.3773ec42c8f54f26ab66a197845a9e98</nameID>
+				<numStaves>1</numStaves>
+				<musicXMLSoundID>drum.cajon</musicXMLSoundID>
+				<numberingStyle>kDummy</numberingStyle>
+				<showGuitarChords>false</showGuitarChords>
+				<showChordSymbols>false</showChordSymbols>
+				<percussionInstrumentDataID>percussion-instrument-data.user.a31794bd533444aa8340228cdf22182a</percussionInstrumentDataID>
+				<frettedInstrumentDataID/>
+				<staveDefinition>
+					<numStaveLines>1</numStaveLines>
+					<barlineSpan>1</barlineSpan>
+					<bracketSpan>1</bracketSpan>
+					<useBrace>false</useBrace>
+					<isVocalStave>false</isVocalStave>
+					<defaultContextualStemDirectionIsUp>true</defaultContextualStemDirectionIsUp>
+				</staveDefinition>
+				<clefs>
+					<clefIDsForEachStave array="true">
+						<staveClefIDs>
+							<idForTransposingLayouts>clef.percussion</idForTransposingLayouts>
+						</staveClefIDs>
+					</clefIDsForEachStave>
+				</clefs>
+				<playingTechniques array="true">
+					<playingTechnique>
+						<techniqueID>pt.accent</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.crescendo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.crescendoDiminuendo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.diminuendo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.diminuendoCrescendo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.f</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.ff</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.fff</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.ffp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.fp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.marcato</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.mf</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.mp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.natural</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.p</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.pp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.ppp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.sf</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.sfp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.sfz</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.simile</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.staccatissimo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.staccato</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.tenuto</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.tremolo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.ghostNote</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.open2</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.slapCongas</techniqueID>
+					</playingTechnique>
+				</playingTechniques>
+			</InstrumentEntityDefinition>
+		</entities>
+	</instruments>
+	<instrumentNames>
+		<entities array="true">
+			<InstrumentNameEntityDefinition>
+				<name>instrumentname.user.3773ec42c8f54f26ab66a197845a9e98</name>
+				<entityID>instrumentname.user.3773ec42c8f54f26ab66a197845a9e98</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<data>
+					<uiName>Cajon (Low Tone)</uiName>
+					<singularFullName>Cajon LH</singularFullName>
+					<singularShortName>Caj. LH</singularShortName>
+					<pluralFullName/>
+					<pluralShortName/>
+					<gender>kNeutral</gender>
+					<language>kEnglish</language>
+				</data>
+			</InstrumentNameEntityDefinition>
+			<InstrumentNameEntityDefinition>
+				<name>instrumentname.user.85ee274f949f406395b8b9aae6d0a983</name>
+				<entityID>instrumentname.user.85ee274f949f406395b8b9aae6d0a983</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<data>
+					<uiName>Cajon</uiName>
+					<singularFullName>Cajon</singularFullName>
+					<singularShortName>Caj.</singularShortName>
+					<pluralFullName>Cajons</pluralFullName>
+					<pluralShortName>Caj.</pluralShortName>
+					<gender>kNeutral</gender>
+					<language>kEnglish</language>
+				</data>
+			</InstrumentNameEntityDefinition>
+			<InstrumentNameEntityDefinition>
+				<name>instrumentname.user.ac7ab4ef5c854d639a95c3b96d145a06</name>
+				<entityID>instrumentname.user.ac7ab4ef5c854d639a95c3b96d145a06</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<data>
+					<uiName>Cajon (High Tone)</uiName>
+					<singularFullName>Cajon RH</singularFullName>
+					<singularShortName>Caj. RH</singularShortName>
+					<pluralFullName>Cajons</pluralFullName>
+					<pluralShortName>Caj.</pluralShortName>
+					<gender>kNeutral</gender>
+					<language>kEnglish</language>
+				</data>
+			</InstrumentNameEntityDefinition>
+		</entities>
+		<language>kEnglish</language>
+	</instrumentNames>
+	<instrumentFamilies>
+		<entities array="true"/>
+	</instrumentFamilies>
+	<clefDefinitions>
+		<entities array="true"/>
+	</clefDefinitions>
+	<ottavaLineDefinitions>
+		<entities array="true"/>
+	</ottavaLineDefinitions>
+	<noteheadSetDefinitions>
+		<entities array="true"/>
+	</noteheadSetDefinitions>
+	<noteheadDefinitions>
+		<entities array="true"/>
+	</noteheadDefinitions>
+	<restSetDefinitions>
+		<entities array="true"/>
+	</restSetDefinitions>
+	<restDefinitions>
+		<entities array="true"/>
+	</restDefinitions>
+	<flagSetDefinitions>
+		<entities array="true"/>
+	</flagSetDefinitions>
+	<flagDefinitions>
+		<entities array="true"/>
+	</flagDefinitions>
+	<graphicDefinitions>
+		<entities array="true"/>
+	</graphicDefinitions>
+	<blobDefinitions>
+		<entities array="true"/>
+	</blobDefinitions>
+	<drawingDefinitions>
+		<entities array="true"/>
+	</drawingDefinitions>
+	<textDefinitions>
+		<entities array="true"/>
+	</textDefinitions>
+	<glyphDefinitions>
+		<entities array="true"/>
+	</glyphDefinitions>
+	<compositeDefinitions>
+		<entities array="true"/>
+	</compositeDefinitions>
+	<tempoPresetDefinitions>
+		<entities array="true"/>
+	</tempoPresetDefinitions>
+	<rhythmicFeelDefinitions>
+		<entities array="true"/>
+	</rhythmicFeelDefinitions>
+	<penstyles>
+		<entities array="true"/>
+	</penstyles>
+	<fontstyles>
+		<entities array="true"/>
+	</fontstyles>
+	<brushstyles>
+		<entities array="true"/>
+	</brushstyles>
+	<pagePairDefinitionSets>
+		<entities array="true"/>
+	</pagePairDefinitionSets>
+	<pageDimensionPresets>
+		<entities array="true"/>
+	</pageDimensionPresets>
+	<paragraphStyles>
+		<entities array="true"/>
+	</paragraphStyles>
+	<characterStyles>
+		<entities array="true"/>
+	</characterStyles>
+	<playingTechniques>
+		<entities array="true">
+			<PlayingTechniqueDefinition>
+				<name>Bass (Cuba)</name>
+				<entityID>pt.user.bass_shekere</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<text/>
+				<articulationType>kAttribute</articulationType>
+				<groupType>kTechniques</groupType>
+				<aliasForPlayingTechniqueID/>
+				<fallbackPlayingTechniqueID/>
+				<mutualExclusionGroups/>
+			</PlayingTechniqueDefinition>
+			<PlayingTechniqueDefinition>
+				<name>Bass Accent (Cuba)</name>
+				<entityID>pt.user.bass_accent_cuba</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<text/>
+				<articulationType>kAttribute</articulationType>
+				<groupType>kTechniques</groupType>
+				<aliasForPlayingTechniqueID/>
+				<fallbackPlayingTechniqueID/>
+				<mutualExclusionGroups/>
+			</PlayingTechniqueDefinition>
+			<PlayingTechniqueDefinition>
+				<name>Bass Soft (Cuba)</name>
+				<entityID>pt.user.bass_soft_cuba</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<text/>
+				<articulationType>kAttribute</articulationType>
+				<groupType>kTechniques</groupType>
+				<aliasForPlayingTechniqueID/>
+				<fallbackPlayingTechniqueID/>
+				<mutualExclusionGroups/>
+			</PlayingTechniqueDefinition>
+			<PlayingTechniqueDefinition>
+				<name>Open Accent (Cuba)</name>
+				<entityID>pt.user.open_accent_cuba</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<text/>
+				<articulationType>kAttribute</articulationType>
+				<groupType>kTechniques</groupType>
+				<aliasForPlayingTechniqueID/>
+				<fallbackPlayingTechniqueID/>
+				<mutualExclusionGroups/>
+			</PlayingTechniqueDefinition>
+			<PlayingTechniqueDefinition>
+				<name>Open Muted (Cuba)</name>
+				<entityID>pt.user.open_muted_cuba</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<text/>
+				<articulationType>kAttribute</articulationType>
+				<groupType>kTechniques</groupType>
+				<aliasForPlayingTechniqueID/>
+				<fallbackPlayingTechniqueID/>
+				<mutualExclusionGroups/>
+			</PlayingTechniqueDefinition>
+			<PlayingTechniqueDefinition>
+				<name>Open Release (Cuba)</name>
+				<entityID>pt.user.open_release_congas</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<text/>
+				<articulationType>kAttribute</articulationType>
+				<groupType>kTechniques</groupType>
+				<aliasForPlayingTechniqueID/>
+				<fallbackPlayingTechniqueID/>
+				<mutualExclusionGroups/>
+			</PlayingTechniqueDefinition>
+			<PlayingTechniqueDefinition>
+				<name>Open Soft (Cuba)</name>
+				<entityID>pt.user.open_soft_cuba</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<text/>
+				<articulationType>kDirection</articulationType>
+				<groupType>kTechniques</groupType>
+				<aliasForPlayingTechniqueID/>
+				<fallbackPlayingTechniqueID/>
+				<mutualExclusionGroups/>
+			</PlayingTechniqueDefinition>
+			<PlayingTechniqueDefinition>
+				<name>Slap Accent (Cuba)</name>
+				<entityID>pt.user.slap_accent_cuba</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<text/>
+				<articulationType>kAttribute</articulationType>
+				<groupType>kTechniques</groupType>
+				<aliasForPlayingTechniqueID/>
+				<fallbackPlayingTechniqueID/>
+				<mutualExclusionGroups/>
+			</PlayingTechniqueDefinition>
+			<PlayingTechniqueDefinition>
+				<name>Slap Muted (Cuba)</name>
+				<entityID>pt.user.slap_muted_cuba</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<text/>
+				<articulationType>kAttribute</articulationType>
+				<groupType>kTechniques</groupType>
+				<aliasForPlayingTechniqueID/>
+				<fallbackPlayingTechniqueID/>
+				<mutualExclusionGroups/>
+			</PlayingTechniqueDefinition>
+			<PlayingTechniqueDefinition>
+				<name>Slap Soft (Cuba)</name>
+				<entityID>pt.user.slap_soft_cuba</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<text/>
+				<articulationType>kAttribute</articulationType>
+				<groupType>kTechniques</groupType>
+				<aliasForPlayingTechniqueID/>
+				<fallbackPlayingTechniqueID/>
+				<mutualExclusionGroups/>
+			</PlayingTechniqueDefinition>
+			<PlayingTechniqueDefinition>
+				<name>Tip (Conga)</name>
+				<entityID>pt.user.tip_conga</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<text/>
+				<articulationType>kAttribute</articulationType>
+				<groupType>kTechniques</groupType>
+				<aliasForPlayingTechniqueID/>
+				<fallbackPlayingTechniqueID/>
+				<mutualExclusionGroups/>
+			</PlayingTechniqueDefinition>
+		</entities>
+	</playingTechniques>
+	<ornamentDefinitions>
+		<entities array="true"/>
+	</ornamentDefinitions>
+	<multiSegmentLineDefinitions>
+		<entities array="true"/>
+	</multiSegmentLineDefinitions>
+	<playingTechniqueAppearanceCollectionDefinition>
+		<entities array="true"/>
+	</playingTechniqueAppearanceCollectionDefinition>
+	<expressionMapDefinitions>
+		<entities array="true"/>
+	</expressionMapDefinitions>
+	<drumKitNoteMapDefinitions>
+		<entities array="true"/>
+	</drumKitNoteMapDefinitions>
+	<repeatableCompositeCollectionDefinitions>
+		<entities array="true"/>
+	</repeatableCompositeCollectionDefinitions>
+	<chordSymbolAppearanceCollectionDefinitions>
+		<entities array="true"/>
+	</chordSymbolAppearanceCollectionDefinitions>
+	<chordSymbolAppearanceComponentCollectionDefinitions>
+		<entities array="true"/>
+	</chordSymbolAppearanceComponentCollectionDefinitions>
+	<percussionKitDefinitionCollectionDefinition>
+		<entities array="true">
+			<PercussionKitDefinitionDefinition>
+				<name>kit-definition.user.1fd40e30ff4545b19b223ec877f08b62</name>
+				<entityID>kit-definition.user.1fd40e30ff4545b19b223ec877f08b62</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<kitDefinition>
+					<isDrumkit>false</isDrumkit>
+					<drumkitVoicingType>kFollowKit</drumkitVoicingType>
+					<presentationHint>kGrid</presentationHint>
+					<gridCentreLineShift>0</gridCentreLineShift>
+					<percussionKitComponents array="true">
+						<percussionKitComponent>
+							<instrumentEntityID>instrument.user.43fc0271debf45b8887d7c7e82d6e60f</instrumentEntityID>
+							<instrumentOrder>1</instrumentOrder>
+							<stavePosition>1</stavePosition>
+							<destinationVoiceDirection>kUp</destinationVoiceDirection>
+							<destinationVoiceIndex>0</destinationVoiceIndex>
+							<gridIndex>0</gridIndex>
+							<gridNumSpacesBelow>2</gridNumSpacesBelow>
+							<ptNoteheadOverrides>
+								<ptNoteheadOverrides array="true"/>
+							</ptNoteheadOverrides>
+						</percussionKitComponent>
+						<percussionKitComponent>
+							<instrumentEntityID>instrument.user.31806d6f0e674632bab201e69960e324</instrumentEntityID>
+							<instrumentOrder>2</instrumentOrder>
+							<stavePosition>-1</stavePosition>
+							<destinationVoiceDirection>kUp</destinationVoiceDirection>
+							<destinationVoiceIndex>0</destinationVoiceIndex>
+							<gridIndex>1</gridIndex>
+							<gridNumSpacesBelow>2</gridNumSpacesBelow>
+							<ptNoteheadOverrides>
+								<ptNoteheadOverrides array="true"/>
+							</ptNoteheadOverrides>
+						</percussionKitComponent>
+					</percussionKitComponents>
+					<gridGroupDefinitions array="true"/>
+				</kitDefinition>
+			</PercussionKitDefinitionDefinition>
+		</entities>
+	</percussionKitDefinitionCollectionDefinition>
+	<percussionInstrumentDataCollectionDefinition>
+		<entities array="true">
+			<PercussionInstrumentDataDefinition>
+				<name>percussion-instrument-data.user.a31794bd533444aa8340228cdf22182a</name>
+				<entityID>percussion-instrument-data.user.a31794bd533444aa8340228cdf22182a</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<playingTechniquePresentations array="true">
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.user.bass_shekere</playingTechniqueEntityID>
+						<noteheadSetEntityID>noteheadset.roundWhiteWithDot</noteheadSetEntityID>
+						<playingTechniquePresentationOverrides array="true">
+							<playingTechniquePresentationOverride>
+								<articulationForceType>kAccent</articulationForceType>
+								<overrideEntitiesReplaceBaseEntity>true</overrideEntitiesReplaceBaseEntity>
+								<playingTechniqueEntityIDs>pt.user.bass_accent_cuba</playingTechniqueEntityIDs>
+								<tremoloType>
+									<numStrokes>0</numStrokes>
+									<zOnStem>false</zOnStem>
+								</tremoloType>
+							</playingTechniquePresentationOverride>
+							<playingTechniquePresentationOverride>
+								<articulationStressType>kUnstress</articulationStressType>
+								<overrideEntitiesReplaceBaseEntity>true</overrideEntitiesReplaceBaseEntity>
+								<playingTechniqueEntityIDs>pt.user.bass_soft_cuba</playingTechniqueEntityIDs>
+								<tremoloType>
+									<numStrokes>0</numStrokes>
+									<zOnStem>false</zOnStem>
+								</tremoloType>
+							</playingTechniquePresentationOverride>
+						</playingTechniquePresentationOverrides>
+					</playingTechniquePresentation>
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.open1</playingTechniqueEntityID>
+						<playingTechniquePresentationOverrides array="true">
+							<playingTechniquePresentationOverride>
+								<articulationForceType>kAccent</articulationForceType>
+								<overrideEntitiesReplaceBaseEntity>true</overrideEntitiesReplaceBaseEntity>
+								<playingTechniqueEntityIDs>pt.user.open_accent_cuba</playingTechniqueEntityIDs>
+								<tremoloType>
+									<numStrokes>0</numStrokes>
+									<zOnStem>false</zOnStem>
+								</tremoloType>
+							</playingTechniquePresentationOverride>
+							<playingTechniquePresentationOverride>
+								<articulationStressType>kUnstress</articulationStressType>
+								<overrideEntitiesReplaceBaseEntity>true</overrideEntitiesReplaceBaseEntity>
+								<playingTechniqueEntityIDs>pt.user.open_soft_cuba</playingTechniqueEntityIDs>
+								<tremoloType>
+									<numStrokes>0</numStrokes>
+									<zOnStem>false</zOnStem>
+								</tremoloType>
+							</playingTechniquePresentationOverride>
+						</playingTechniquePresentationOverrides>
+					</playingTechniquePresentation>
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.slap</playingTechniqueEntityID>
+						<noteheadSetEntityID>noteheadset.ornatex</noteheadSetEntityID>
+						<playingTechniquePresentationOverrides array="true">
+							<playingTechniquePresentationOverride>
+								<articulationForceType>kAccent</articulationForceType>
+								<overrideEntitiesReplaceBaseEntity>true</overrideEntitiesReplaceBaseEntity>
+								<playingTechniqueEntityIDs>pt.user.slap_accent_cuba</playingTechniqueEntityIDs>
+								<tremoloType>
+									<numStrokes>0</numStrokes>
+									<zOnStem>false</zOnStem>
+								</tremoloType>
+							</playingTechniquePresentationOverride>
+							<playingTechniquePresentationOverride>
+								<articulationStressType>kUnstress</articulationStressType>
+								<overrideEntitiesReplaceBaseEntity>true</overrideEntitiesReplaceBaseEntity>
+								<playingTechniqueEntityIDs>pt.user.slap_soft_cuba</playingTechniqueEntityIDs>
+								<tremoloType>
+									<numStrokes>0</numStrokes>
+									<zOnStem>false</zOnStem>
+								</tremoloType>
+							</playingTechniquePresentationOverride>
+						</playingTechniquePresentationOverrides>
+					</playingTechniquePresentation>
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.user.tip_conga</playingTechniqueEntityID>
+						<noteheadSetEntityID>noteheadset.triangleUpNoteheads</noteheadSetEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.user.open_muted_cuba</playingTechniqueEntityID>
+						<noteheadSetEntityID>noteheadset.Xnoteheads</noteheadSetEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.user.slap_muted_cuba</playingTechniqueEntityID>
+						<noteheadSetEntityID>noteheadset.circleXNoteheads</noteheadSetEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.user.open_release_congas</playingTechniqueEntityID>
+						<noteheadSetEntityID>noteheadset.slashedNoteheadsBLTR</noteheadSetEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+				</playingTechniquePresentations>
+			</PercussionInstrumentDataDefinition>
+			<PercussionInstrumentDataDefinition>
+				<name>percussion-instrument-data.user.e56417022ce54642ac906b5043303717</name>
+				<entityID>percussion-instrument-data.user.e56417022ce54642ac906b5043303717</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<playingTechniquePresentations array="true">
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.user.bass_shekere</playingTechniqueEntityID>
+						<noteheadSetEntityID>noteheadset.roundWhiteWithDot</noteheadSetEntityID>
+						<playingTechniquePresentationOverrides array="true">
+							<playingTechniquePresentationOverride>
+								<articulationForceType>kAccent</articulationForceType>
+								<overrideEntitiesReplaceBaseEntity>true</overrideEntitiesReplaceBaseEntity>
+								<playingTechniqueEntityIDs>pt.user.bass_accent_cuba</playingTechniqueEntityIDs>
+								<tremoloType>
+									<numStrokes>0</numStrokes>
+									<zOnStem>false</zOnStem>
+								</tremoloType>
+							</playingTechniquePresentationOverride>
+							<playingTechniquePresentationOverride>
+								<articulationStressType>kUnstress</articulationStressType>
+								<overrideEntitiesReplaceBaseEntity>true</overrideEntitiesReplaceBaseEntity>
+								<playingTechniqueEntityIDs>pt.user.bass_soft_cuba</playingTechniqueEntityIDs>
+								<tremoloType>
+									<numStrokes>0</numStrokes>
+									<zOnStem>false</zOnStem>
+								</tremoloType>
+							</playingTechniquePresentationOverride>
+						</playingTechniquePresentationOverrides>
+					</playingTechniquePresentation>
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.open1</playingTechniqueEntityID>
+						<playingTechniquePresentationOverrides array="true">
+							<playingTechniquePresentationOverride>
+								<articulationForceType>kAccent</articulationForceType>
+								<overrideEntitiesReplaceBaseEntity>true</overrideEntitiesReplaceBaseEntity>
+								<playingTechniqueEntityIDs>pt.user.open_accent_cuba</playingTechniqueEntityIDs>
+								<tremoloType>
+									<numStrokes>0</numStrokes>
+									<zOnStem>false</zOnStem>
+								</tremoloType>
+							</playingTechniquePresentationOverride>
+							<playingTechniquePresentationOverride>
+								<articulationStressType>kUnstress</articulationStressType>
+								<overrideEntitiesReplaceBaseEntity>true</overrideEntitiesReplaceBaseEntity>
+								<playingTechniqueEntityIDs>pt.user.open_soft_cuba</playingTechniqueEntityIDs>
+								<tremoloType>
+									<numStrokes>0</numStrokes>
+									<zOnStem>false</zOnStem>
+								</tremoloType>
+							</playingTechniquePresentationOverride>
+						</playingTechniquePresentationOverrides>
+					</playingTechniquePresentation>
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.slap</playingTechniqueEntityID>
+						<noteheadSetEntityID>noteheadset.ornatex</noteheadSetEntityID>
+						<playingTechniquePresentationOverrides array="true">
+							<playingTechniquePresentationOverride>
+								<articulationForceType>kAccent</articulationForceType>
+								<overrideEntitiesReplaceBaseEntity>true</overrideEntitiesReplaceBaseEntity>
+								<playingTechniqueEntityIDs>pt.user.slap_accent_cuba</playingTechniqueEntityIDs>
+								<tremoloType>
+									<numStrokes>0</numStrokes>
+									<zOnStem>false</zOnStem>
+								</tremoloType>
+							</playingTechniquePresentationOverride>
+							<playingTechniquePresentationOverride>
+								<articulationStressType>kUnstress</articulationStressType>
+								<overrideEntitiesReplaceBaseEntity>true</overrideEntitiesReplaceBaseEntity>
+								<playingTechniqueEntityIDs>pt.user.slap_soft_cuba</playingTechniqueEntityIDs>
+								<tremoloType>
+									<numStrokes>0</numStrokes>
+									<zOnStem>false</zOnStem>
+								</tremoloType>
+							</playingTechniquePresentationOverride>
+						</playingTechniquePresentationOverrides>
+					</playingTechniquePresentation>
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.user.tip_conga</playingTechniqueEntityID>
+						<noteheadSetEntityID>noteheadset.triangleUpNoteheads</noteheadSetEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.user.open_muted_cuba</playingTechniqueEntityID>
+						<noteheadSetEntityID>noteheadset.Xnoteheads</noteheadSetEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.user.slap_muted_cuba</playingTechniqueEntityID>
+						<noteheadSetEntityID>noteheadset.circleXNoteheads</noteheadSetEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.user.open_release_congas</playingTechniqueEntityID>
+						<noteheadSetEntityID>noteheadset.slashedNoteheadsBLTR</noteheadSetEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+				</playingTechniquePresentations>
+			</PercussionInstrumentDataDefinition>
+		</entities>
+	</percussionInstrumentDataCollectionDefinition>
+	<frettedInstrumentDataCollectionDefinition>
+		<entities array="true"/>
+	</frettedInstrumentDataCollectionDefinition>
+	<chordDiagramCollectionDefinition>
+		<entities array="true"/>
+	</chordDiagramCollectionDefinition>
+	<lineAnnotationCollectionDefinition>
+		<entities array="true"/>
+	</lineAnnotationCollectionDefinition>
+	<lineBodyStyleCollectionDefinition>
+		<entities array="true"/>
+	</lineBodyStyleCollectionDefinition>
+	<lineStyleCollectionDefinition>
+		<entities array="true"/>
+	</lineStyleCollectionDefinition>
+</kScoreLibrary>
